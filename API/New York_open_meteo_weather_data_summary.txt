@@ -1,0 +1,4 @@
+City: New York
+Temperature: 16.0°C
+Wind Speed: 5.0 m/s
+Description: Current weather data
